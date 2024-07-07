@@ -23,9 +23,9 @@ There is an active Google map.
 
 ---
 #### Project video:
-![VideoGif](Resimler/powerfullvid.gif)
+![VideoGif](/Resimler/powerfullvid.gif)
 #### For mobil:
-![ResponsiveGif](Resimler/responsive.gif)
+![ResponsiveGif](/Resimler/responsive.gif)
 
 ---
 ---
